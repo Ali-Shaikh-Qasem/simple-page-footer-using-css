@@ -1,0 +1,13 @@
+.main{
+    text-align: center;
+}
+p{
+    color: darkgrey;
+}
+.mybody{
+    float: left;
+    width: 33%;
+}
+.clear{
+    clear: left;
+}
